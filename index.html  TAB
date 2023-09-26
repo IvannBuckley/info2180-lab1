@@ -1,0 +1,26 @@
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device
+width, initial-scale=1.0"> 
+    <meta http-equiv="X-UA-Compatible" content="ie=edge"> 
+    <title>INFO2180 Lab 1</title
+    <link rel="stylesheet" type="text/css" href="styles.css">> 
+</head> 
+<body> 
+<header> 
+     <h1>INFO2180 Lab 1</h1> 
+     <p>This is a simple webpage for Lab 1 of INFO2180.</p> 
+</header> 
+<main> 
+<h2>[Ivanna Buckley]</h2> 
+<p>[Ivanna Buckley is a twenty-two-year-old student at the University of 
+The West Indies, Mona campus, where she’s pursuing a major in software 
+engineering within the Faculty of Science. When she is not immersed in her 
+studies, Ivanna enjoys indulging in her creative side by reading books and 
+drawing.I am interested in web development because I love the creative 
+aspect of designing and building websites. It's fascinating to see how a 
+few lines of code can transform a concept into a fully functional and 
+visually appealing website that can reach and connect with people all over 
+the world. ]</p> </main> <footer>
+
